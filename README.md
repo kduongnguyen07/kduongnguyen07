@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://www.khanhdn.tk"><img src="https://res.cloudinary.com/khanhdn-tk/image/upload/v1661068201/Hoa_t%E1%BB%AD_%C4%91%E1%BA%B1ng_1_ixhksl.jpg" alt="kduongnguyen07"></a>
-</p>
-# Xin chào! 👋
-
+# Hi there! 👋
 <div align="center">
   <a href="https://discord.com/users/748799374628356126">
-     <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20a%20angels%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+    <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=I%20am%20addicted%20to%20you%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 </div>
 
@@ -73,3 +69,6 @@ Because they're private
 
 
 ## Thanks for reading ❤️
+<div align ="center">
+  <img src="https://c.tenor.com/IlCvc8FeFKYAAAAi/capoo-bugcat.gif">
+</div>
