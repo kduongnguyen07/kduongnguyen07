@@ -13,9 +13,13 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+## ⚡ Platform
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ## About me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=14b8e0&lines=Hi%2C+I'm+Dwong%232027;I'm+Front-end+Developer+from+VietNam;Bot%3A+Khánh%233451)](https://git.io/typing-svg)
