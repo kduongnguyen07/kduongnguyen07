@@ -8,7 +8,7 @@
 
 ## About me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=14b8e0&lines=Hi%2C+I'm+Dwong%231782;I'm+Front-end+Developer+from+VietNam;Bot%3A+Khánh%233451+%26+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=14b8e0&lines=Hi%2C+I'm+Dwong%231782;I'm+Front-end+Developer+from+VietNam;Bot%3A+Khánh%233451)](https://git.io/typing-svg)
 
 <details><summary>My bio </summary>
 <p>
