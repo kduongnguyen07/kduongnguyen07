@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.khanhdn.tk"><img src="https://res.cloudinary.com/khanhdn-tk/image/upload/v1661068201/Hoa_t%E1%BB%AD_%C4%91%E1%BA%B1ng_1_ixhksl.jpg" alt="edisonlee55 Banner"></a>
+  <a href="https://www.khanhdn.tk"><img src="https://res.cloudinary.com/khanhdn-tk/image/upload/v1661068201/Hoa_t%E1%BB%AD_%C4%91%E1%BA%B1ng_1_ixhksl.jpg" alt="kduongnguyen07"></a>
 </p>
 # Xin chào! 👋
 
