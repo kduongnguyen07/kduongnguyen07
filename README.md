@@ -8,10 +8,17 @@
 ## About me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=14b8e0&lines=Hi%2C+I'm+Dwong%231782;I'm+Front-end+Developer+from+VietNam;Bot%3A+Khánh%233451)](https://git.io/typing-svg)
-
-<details><summary>My bio </summary>
+<details><summary>Personal Information</summary>
 <p>
   
+- <p> Name : Duong Nguyen Khanh </p>
+- <p> Date Of Birth : 15/8/2007 </p>
+
+  </p>
+</details>
+<details><summary>My bio </summary>
+<p>
+
 - <img src="https://cdn.discordapp.com/attachments/820557032016969751/952436539118456882/flag-vietnam_1f1fb-1f1f3.png" alt="." width="16" height="16"/> A Vietnamese Student
 - <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Front-end Developer 
 - <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" alt="."  width="16" height="16" /> I am 15 years old. 
