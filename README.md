@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/748799374628356126">
-    <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=Tôi%20bị%20ngáo%20%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+     <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20a%20angels%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 </div>
 
