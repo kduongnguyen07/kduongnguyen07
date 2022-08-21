@@ -20,7 +20,7 @@
 <p>
 
 - <img src="https://cdn.discordapp.com/attachments/820557032016969751/952436539118456882/flag-vietnam_1f1fb-1f1f3.png" alt="." width="16" height="16"/> A Vietnamese Student
-- <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Front-end Developer 
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="." width="16" height="16"/> Front-end Developer 
 - <img src="https://c.tenor.com/ShTnSrVLePQAAAAi/capoo-bugcat.gif" alt="."  width="16" height="16" /> I am 15 years old. 
 - 🎮 I enjoy playing RTG, MOBA,  some lewd images <img src="https://cdn.discordapp.com/emojis/941332005352792174.png?size=20" alt="."/>    
   ↳ **Some games:** <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7pWDDXphRvyJfoeaolPGvzSRKdljeDStcbhKca3QrThde0CcSZqF1X3u10FGtj5XMjQ&usqp=CAU" alt="." width="16" height="16"/> [League Of Legends](https://lienminh.garena.vn/), ...
