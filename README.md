@@ -1,7 +1,7 @@
 # Hi there! 👋
 <div align="center">
   <a href="https://discord.com/users/748799374628356126">
-    <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=I%20am%20addicted%20to%20you%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
+    <img src="https://lanyard.cnrad.dev/api/748799374628356126?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=You%20are%20my%20little%20angel%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
   </a>
 </div>
 
