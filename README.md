@@ -78,8 +78,7 @@ Because they're private
 <br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
+### For work please send via email: kduongnguyen07@gmail.com
 ## Thanks for reading ❤️
 
 <div align ="center">
