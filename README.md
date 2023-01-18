@@ -2,7 +2,7 @@
 <div>
 <img src="https://cdn.discordapp.com/attachments/998125907967496203/1065099999576334457/avatar_cute-modified.png" width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065123688992747581/My_project-2_1.png" width="600" />
+<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065193730379874345/My_project-2_1.png" width="600" />
 <br/>
 <br/>
   
@@ -41,7 +41,7 @@
 <br/>
 <p align="left">
   <a href="/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kduongnguyen07&theme=tokyonight&show_icons=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kduongnguyen07&theme=tokyonight&show_icons=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kduongnguyen07&theme=tokyonight&hide_border=true" />
   </a>
 </p>
