@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065099999576334457/avatar_cute-modified.png" width="100" align="right" />
+<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065099999576334457/avatar_cute-modified.png" width="200" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065194088615391252/My_project-2_1.png" width="600" />
+<img src="https://cdn.discordapp.com/attachments/998125907967496203/1065123688992747581/My_project-2_1.png" width="600" />
 <br/>
 <br/>
   
